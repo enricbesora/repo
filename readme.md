@@ -19,4 +19,6 @@
 
 7. Ahora haremos el git add. para añadir todo, despues un commit en el main y finalmente comprovaremos que esta todo correcto dentro de github.
     ![Captura](./7.PNG "Git GUI")
-    ![Captura](./7.PNG "Git GUI")
+    ![Captura](./8.PNG "Git GUI")
+8. Tambien podemos comprovar como se ve correctamente el readme en el github.
+    ![Captura](./9.PNG "Git GUI")
